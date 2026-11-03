@@ -8,8 +8,8 @@ The project goes beyond model training by covering **data preprocessing, class i
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** PASTE_YOUR_STREAMLIT_APP_LINK_HERE
-
+🔗 
+https://predictive-maintainance-ml.streamlit.app/
 ---
 
 ## 📌 Project Overview
